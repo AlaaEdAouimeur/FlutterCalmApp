@@ -1,13 +1,22 @@
-# calmfy
+# CalmME
 
-A new Flutter project.
+A  Flutter project. Lave a **Star** If it was Helpful for you
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project  a **Flutter** application.That Plays Calming Music and Sounds Depending On the Location All This With **4KB** Of code base 
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
+<img src="assets/Screenshot_20190626-171231.jpg" width="250" /> &nbsp;&nbsp;
+
+<img src="assets/Screenshot_20190626-170222.jpg" width="250" /> &nbsp;&nbsp;
+
+<img src="assets/Screenshot_20190626-170217.jpg" width="250" /> &nbsp;&nbsp;
+
+<img src="assets/Screenshot_20190626-170225.jpg" width="250" /> &nbsp;&nbsp;
+
+## Best Resources
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
